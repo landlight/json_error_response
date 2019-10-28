@@ -1,0 +1,26 @@
+{
+  "name": "json_error_response",
+  "version": "1.0.0",
+  "description": "json error response ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landlight/json_error_response.git"
+  },
+  "keywords": [
+    "json",
+    "json_error",
+    "json_response",
+    "error",
+    "response"
+  ],
+  "author": "Chit Khine (ck.light@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landlight/json_error_response/issues"
+  },
+  "homepage": "https://github.com/landlight/json_error_response#readme"
+}
