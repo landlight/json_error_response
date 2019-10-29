@@ -1,5 +1,6 @@
 # json_error_response
 library for error responses in json
+- npm install json_error_response (minimum working version: 1.0.3)
 
 # Methods
 - IsRequired (string itemName)
