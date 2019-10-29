@@ -39,5 +39,6 @@ console.log(json_error.IsRequired("user"))
   
   }
   
- # Buy me a coffee
- https://www.buymeacoffee.com/rJeZAvL
+# Buy me a coffee
+<a href="https://www.buymeacoffee.com/rJeZAvL" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+ 
