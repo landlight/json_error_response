@@ -18,14 +18,19 @@ library for error responses in json
 const json_error = require("json_error_response");
 
 console.log(json_error.IsRequired("user"))
+
 // => {"message": "user not found"};
 
 # How to use with response
 - return res.json(json_error.isRequired("user"));
 
 # Special Case
-try {
-    // do something
-} catch (err) {
-    json_error.DefaultError(err, res);
-}
+  try {
+
+     // do something
+
+  } catch (err) {
+     
+     json_error.DefaultError(err, res);
+  
+  }
