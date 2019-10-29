@@ -2,7 +2,7 @@
 library for error responses in json
 - npm install json_error_response (minimum working version: 1.0.3)
 
-#npm
+# npm
 https://www.npmjs.com/package/json_error_response
 
 # Methods
