@@ -60,6 +60,5 @@ module.exports = {
     Forbidden,
     DefaultError,
     SizeNegative,
-    NotFound,
-    RejectNotFound
+    NotFound
 }
