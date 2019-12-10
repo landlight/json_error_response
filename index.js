@@ -21,7 +21,13 @@ function Unauthorized(){
         message: `Unauthorized`
     }
 }
- 
+
+function PermissionDenied() {
+    return {
+        message: `Permission Denied`;
+    }
+}
+
 function Forbidden() {
     return {
         message: `Permission denied.`
@@ -60,5 +66,6 @@ module.exports = {
     Forbidden,
     DefaultError,
     SizeNegative,
-    NotFound
+    NotFound,
+    PermissionDenied
 }

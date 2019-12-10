@@ -10,6 +10,7 @@ https://www.npmjs.com/package/json_error_response
 - IsNotObject (string itemName, string type)
 - OutOfBound (string itemName, int startPoint, int endPoint)
 - Unauthorized ()
+- PermissionDenied ()
 - Forbidden () 
 - NotImpemented ()
 - SizeNegative ()
