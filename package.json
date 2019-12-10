@@ -1,6 +1,6 @@
 {
   "name": "json_error_response",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "json error response ",
   "main": "index.js",
   "scripts": {

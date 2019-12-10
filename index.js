@@ -24,7 +24,7 @@ function Unauthorized(){
 
 function PermissionDenied() {
     return {
-        message: `Permission Denied`;
+        message: `Permission Denied`
     }
 }
 
